@@ -91,5 +91,5 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach out to me at 21je1017@iitism.ac.in
+If you have any feedback, please reach out to me at 23je0044@iitism.ac.in
 
