@@ -12,7 +12,7 @@ https://mumbaidabbawala.netlify.app/
 
 ## 🚀 About Me
 
-I am Vaibhav Kumar Tiwari, a Bachelor of Technology student majoring in Electronics and Communication Engineering at the prestigious Indian Institute of Technology Dhanbad. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
+I am Aditya Dey, a Bachelor of Technology student majoring in Electronics and Communication Engineering at the prestigious Indian Institute of Technology Dhanbad. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
 
 
 
